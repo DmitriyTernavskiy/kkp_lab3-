@@ -8,4 +8,4 @@
 2. Настиснути на бажану точку на карті та отримати дані
 
 # Скріншот
-![Рис.1 - Скріншот гри] (https://github.com/natalisabo/kkp_lab3-/blob/master/screen.png)
+![Рис.1 - Скріншот гри](https://github.com/natalisabo/kkp_lab3-/blob/master/screen.png)
