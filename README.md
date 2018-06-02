@@ -1,12 +1,10 @@
 # kkp_lab3
 
 # Завдання
-Розробити чат
+Розробити браузерну аплікацію, яка отримує дані з відкритого API(openweathermap), та відображає їх на карті
 
 # Інструкція користувача
-запустити консоль
-виконати node server.js
-у браузері перейти на localhost:3000
+Запускаємо index.html, вибираємо відповідну точку на карті (з даної точки буде отриманно АРІ з потрібними данними)
 
 # Скріншоти
-![Рис.1 - Запуск сервера](https://github.com/natalisabo/lab2_kkp/blob/master/serverserver.png)
+![Рис.1 - Скріншот](https://github.com/natalisabo/kkp_lab3-/blob/master/screen.png)
